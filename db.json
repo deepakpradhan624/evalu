@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://rukminim1.flixcart.com/image/832/832/jvtujrk0/shirt/p/2/8/42-2284523-roadster-original-imafgmrbh42hqqrq.jpeg?q=70",
+      "name": "typicode",
+      "code": "fw20_0108",
+      "batch": "b23",
+      "vote": 18
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/832/832/jvtujrk0/shirt/p/2/8/42-2284523-roadster-original-imafgmrbh42hqqrq.jpeg?q=70",
+      "name": "Deepak Pradhan",
+      "code": "fw20_0011",
+      "batch": "b22",
+      "vote": 4,
+      "id": 2
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/832/832/jvtujrk0/shirt/p/2/8/42-2284523-roadster-original-imafgmrbh42hqqrq.jpeg?q=70",
+      "name": "Balu T P",
+      "code": "fw19_0111",
+      "batch": "b19",
+      "vote": 1,
+      "id": 3
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/832/832/jvtujrk0/shirt/p/2/8/42-2284523-roadster-original-imafgmrbh42hqqrq.jpeg?q=70",
+      "name": "Ashish Prabhakar Atalkar",
+      "code": "fw21_0001",
+      "batch": "b24",
+      "vote": 1,
+      "id": 4
+    }
+  ]
+}
